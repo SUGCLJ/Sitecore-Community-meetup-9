@@ -7,6 +7,7 @@ Agenda:
 - [Introduction](https://github.com/SUGCLJ/Sitecore-Community-meetup-9/blob/main/Presentations/_1_Sitecore%20Meetup%20(9)%20intro%2C%20Cluj-Napoca.pdf)
 
 - [Introduction into Sitecore Content Serialization (SCS)! | Gerhart Magdás - Sitecore Developer [ddroidd]](https://github.com/SUGCLJ/Sitecore-Community-meetup-9/blob/main/Presentations/_2_Sitecore%20Content%20Serialization%20-%20%20Gerhart%20Magd%C3%A1s.pdf)
+  - Its for SCS 3.0, but here you have an article from Gerhart about SCS 4.0 https://gerhartmagdas.wordpress.com/2021/09/29/sitecore-cli-4/
 
 - [Introduction to Moosend | Vlad Iobagiu - Freelancer Solutions Architect](https://github.com/SUGCLJ/Sitecore-Community-meetup-9/blob/main/Presentations/_3_Introduction%20to%20Sitecore%20Moosend%20-Vlad%20Iobagiu.pdf)
 
